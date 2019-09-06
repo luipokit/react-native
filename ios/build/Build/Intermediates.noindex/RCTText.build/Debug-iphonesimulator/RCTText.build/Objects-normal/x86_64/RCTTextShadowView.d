@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/luipokit/reactnative/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.m \
+  /Users/luipokit/reactnative/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/luipokit/reactnative/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/luipokit/reactnative/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/luipokit/reactnative/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/luipokit/reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/luipokit/reactnative/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h \
+  /Users/luipokit/reactnative/node_modules/react-native/Libraries/Text/Text/RCTTextView.h
